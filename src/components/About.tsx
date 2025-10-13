@@ -43,7 +43,7 @@ export const About = () => {
             Especialistas em Climatização
           </h2>
           <p className="text-lg text-white/90 max-w-2xl mx-auto leading-relaxed">
-            Somos uma empresa especializada em climatização, oferecendo serviços de instalação, manutenção e higienização de aparelhos de ar-condicionado com excelência e profissionalismo.
+           A +CLIM é especializada em instalação e manutenção de ar-condicionado. Oferecemos serviços de instalação, manutenção preventiva e corretiva, limpeza, higienização e carga de gás. Atuamos em João Pessoa e região, prezando sempre pela qualidade e confiança.
           </p>
         </div>
 
