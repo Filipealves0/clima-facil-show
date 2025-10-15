@@ -8,41 +8,41 @@ const services = [
     description: "Instalação seguindo todas as normas dos fabricantes com garantia de 1 ano na mão de obra.",
     features: [
       "Normas técnicas",
-      "Garantia 1 ano",
-      "Equipamentos certificados"
+      "Nivelamento e vedação profissional",
+      "Garantia estendida +CLIM"
     ],
     color: "from-blue-500 to-blue-600"
   },
   {
     icon: Calendar,
     title: "Manutenção",
-    description: "Manutenção preventiva e corretiva com laudos prescritos e contratos PMOC.",
+    description: "Manutenção preventiva e corretiva com laudos prescritos.",
     features: [
       "Preventiva",
       "Corretiva",
-      "Laudos técnicos"
+      "Revisão com certificado técnico digital"
     ],
     color: "from-secondary to-secondary-light"
   },
   {
     icon: Sparkles,
     title: "Higienização",
-    description: "Método inovador com bolsa coletora para maior eficiência e rapidez no serviço.",
+    description: "Limpeza e Higienização",
     features: [
-      "Bolsa coletora",
+      "Eliminação de fungos e bactérias",
       "Método inovador",
-      "Desconto múltiplos aparelhos"
+      "Sistema antiodores e purificação do ar"
     ],
     color: "from-cyan-500 to-cyan-600"
   },
   {
     icon: FileCheck,
-    title: "Contratos PMOC",
+    title: "Carga de Gás",
     description: "Planos de manutenção para empresas com garantia e proteção dos equipamentos.",
     features: [
-      "Empresarial",
+      "Reposição com gás original e certificado",
       "Proteção garantida",
-      "Laudos técnicos"
+      "Teste final de eficiência e consumo"
     ],
     color: "from-purple-500 to-purple-600"
   }

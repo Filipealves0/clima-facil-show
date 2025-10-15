@@ -32,7 +32,7 @@ export const Hero = () => {
 
           {/* Subheading */}
           <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto leading-relaxed">
-            Instalação, Manutenção e Higienização com Bolsa Coletora, PMOC com Garantia e Transparência
+            Instalação, Manutenção Preventiva e Corretiva, Limpeza e Higienização e Carga de Gás
           </p>
 
           {/* CTA Buttons */}
@@ -46,10 +46,10 @@ export const Hero = () => {
             </Button>
             <Button 
               size="lg" 
-              variant="outline" 
+
               className="border-2 border-white/30 text-white hover:bg-white/10 backdrop-blur-sm px-8 py-6 text-lg rounded-xl"
             >
-              (84) 99435-8723
+              (83) 98630-0683
             </Button>
           </div>
 

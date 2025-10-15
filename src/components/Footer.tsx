@@ -22,7 +22,7 @@ export const Footer = () => {
               <li className="hover:text-secondary transition-colors cursor-pointer">Instalação</li>
               <li className="hover:text-secondary transition-colors cursor-pointer">Manutenção</li>
               <li className="hover:text-secondary transition-colors cursor-pointer">Higienização</li>
-              <li className="hover:text-secondary transition-colors cursor-pointer">Contratos PMOC</li>
+            
             </ul>
           </div>
 
@@ -32,19 +32,19 @@ export const Footer = () => {
             <ul className="space-y-3 text-white/80">
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-secondary" />
-                <a href="tel:+5584994358723" className="hover:text-secondary transition-colors">
-                  (84) 99435-8723
+                <a href="tel:+5583986300683" className="hover:text-secondary transition-colors">
+                  (83) 98630-0683
                 </a>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-secondary" />
-                <a href="mailto:contato@climatizacao.com.br" className="hover:text-secondary transition-colors">
-                  contato@climatizacao.com.br
+                <a href="mailto:ricardopereira774@gmail.com" className="hover:text-secondary transition-colors">
+                  ricardopereira774@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 text-secondary flex-shrink-0 mt-1" />
-                <span>Natal/RN e Região Metropolitana</span>
+                <span>João Pessoa/PB e Região Metropolitana</span>
               </li>
             </ul>
           </div>
@@ -53,7 +53,7 @@ export const Footer = () => {
         {/* Social Media & Copyright */}
         <div className="border-t border-white/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-white/70 text-sm">
-            © {currentYear} Climatização Profissional. Todos os direitos reservados.
+            © {currentYear} +Clim. Todos os direitos reservados.
           </div>
           <div className="flex gap-4">
             <a 

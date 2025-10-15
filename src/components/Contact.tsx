@@ -30,10 +30,10 @@ export const Contact = () => {
                   <h3 className="font-bold text-lg mb-2 text-foreground">Telefone / WhatsApp</h3>
                   <p className="text-muted-foreground mb-2">Atendimento rápido via WhatsApp</p>
                   <a 
-                    href="tel:+5584994358723" 
+                    href="tel:+5583986300683" 
                     className="text-secondary font-semibold text-lg hover:underline"
                   >
-                    (84) 99435-8723
+                    (83) 98630-0683
                   </a>
                 </div>
               </div>
@@ -48,10 +48,10 @@ export const Contact = () => {
                   <h3 className="font-bold text-lg mb-2 text-foreground">E-mail</h3>
                   <p className="text-muted-foreground mb-2">Envie sua mensagem</p>
                   <a 
-                    href="mailto:contato@climatizacao.com.br" 
+                    href="mailto:ricardopereira774@gmail.com" 
                     className="text-primary font-semibold hover:underline"
                   >
-                    contato@climatizacao.com.br
+                    ricardopereira774@gmail.com
                   </a>
                 </div>
               </div>
@@ -65,7 +65,7 @@ export const Contact = () => {
                 <div>
                   <h3 className="font-bold text-lg mb-2 text-foreground">Localização</h3>
                   <p className="text-muted-foreground">
-                    Atendemos Natal/RN e região metropolitana
+                    Atendemos João Pessoa/PB e região metropolitana
                   </p>
                 </div>
               </div>
@@ -106,9 +106,9 @@ export const Contact = () => {
                   className="w-full bg-secondary hover:bg-secondary-light text-white shadow-[0_8px_24px_rgba(16,185,129,0.3)] hover:shadow-[0_12px_32px_rgba(16,185,129,0.4)] transition-all duration-300 py-6 text-lg rounded-xl group"
                   asChild
                 >
-                  <a href="https://wa.me/5584994358723" target="_blank" rel="noopener noreferrer">
+                  <a href="https://w.app/zyoxxp" target="_blank" rel="noopener noreferrer">
                     <Phone className="w-5 h-5 mr-2 group-hover:rotate-12 transition-transform" />
-                    WhatsApp: (84) 99435-8723
+                    WhatsApp: (83) 98630-0683
                   </a>
                 </Button>
 
