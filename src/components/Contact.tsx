@@ -30,7 +30,7 @@ export const Contact = () => {
                   <h3 className="font-bold text-lg mb-2 text-foreground">Telefone / WhatsApp</h3>
                   <p className="text-muted-foreground mb-2">Atendimento rápido via WhatsApp</p>
                   <a 
-                    href="tel:+5583986300683" 
+                    href="https://contate.me/maisclim" 
                     className="text-secondary font-semibold text-lg hover:underline"
                   >
                     (83) 98630-0683
@@ -81,7 +81,7 @@ export const Contact = () => {
                   <p className="text-muted-foreground">
                     Segunda a Sexta: 8h às 18h
                     <br />
-                    Sábado: 8h às 13h
+                    Sábado: 8h às 13h 
                   </p>
                 </div>
               </div>
@@ -106,7 +106,7 @@ export const Contact = () => {
                   className="w-full bg-secondary hover:bg-secondary-light text-white shadow-[0_8px_24px_rgba(16,185,129,0.3)] hover:shadow-[0_12px_32px_rgba(16,185,129,0.4)] transition-all duration-300 py-6 text-lg rounded-xl group"
                   asChild
                 >
-                  <a href="https://w.app/zyoxxp" target="_blank" rel="noopener noreferrer">
+                  <a href="https://contate.me/maisclim" target="_blank" rel="noopener noreferrer">
                     <Phone className="w-5 h-5 mr-2 group-hover:rotate-12 transition-transform" />
                     WhatsApp: (83) 98630-0683
                   </a>

@@ -23,7 +23,7 @@ export const Navbar = () => {
               <Phone className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-foreground">
-              Climatização
+              +Clim | Climatização
             </span>
           </div>
 
@@ -46,7 +46,7 @@ export const Navbar = () => {
               className="bg-secondary hover:bg-secondary-light text-white"
               asChild
             >
-              <a href="https://wa.me/5584994358723" target="_blank" rel="noopener noreferrer">
+              <a href="https://contate.me/maisclim" target="_blank" rel="noopener noreferrer">
                 <Phone className="w-4 h-4 mr-2" />
                 Agendar Agora
               </a>
