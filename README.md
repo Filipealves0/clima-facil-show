@@ -1,73 +1,90 @@
-# Welcome to your Lovable project
+🚀 Clima Fácil Show – Website da MaisClim
 
-## Project info
+Este repositório contém o código-fonte do site institucional da MaisClim, desenvolvido para apresentar serviços de climatização, higienização, manutenção e carga de gás, além de fornecer informações de contato e apresentação profissional da empresa.
 
-**URL**: https://lovable.dev/projects/d4eff548-b347-4b88-ba21-3de515680c1c
+O projeto foi construído com foco em velocidade, responsividade, boa experiência do usuário e um visual moderno, utilizando tecnologias modernas do ecossistema front-end.
 
-## How can I edit this code?
+🌐 Site Online
 
-There are several ways of editing your application.
+Acesse o site publicado aqui:
 
-**Use Lovable**
+👉 https://clima-facil-show.vercel.app
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d4eff548-b347-4b88-ba21-3de515680c1c) and start prompting.
+📌 Recursos do Projeto
 
-Changes made via Lovable will be committed automatically to this repo.
+Página moderna, limpa e responsiva
 
-**Use your preferred IDE**
+Seção de apresentação da empresa
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Cards destacando os principais serviços:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Instalação
 
-Follow these steps:
+Manutenção
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Higienização
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Carga de gás
 
-# Step 3: Install the necessary dependencies.
-npm i
+Informações de contato e atendimento
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Interface simples para futuros ajustes e melhorias
+
+🛠 Tecnologias Utilizadas
+
+React
+TypeScript
+Vite
+Tailwind CSS
+Shadcn/UI
+Node.js + npm
+
+Essas tecnologias garantem alta performance, componentização moderna e facilidade de manutenção.
+
+📂 Estrutura do Projeto
+clima-facil-show/
+│── public/        # Imagens e assets estáticos
+│── src/
+│   ├── components # Componentes reutilizáveis
+│   ├── pages      # Estrutura de páginas
+│   ├── styles     # Configurações visuais
+│   ├── App.tsx    # Entrada principal da aplicação
+│   └── main.tsx   # Inicialização do React
+│
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
+
+⚙️ Como Rodar o Projeto Localmente
+🔧 Pré-requisitos
+
+Node.js instalado
+npm funcionando corretamente
+
+▶️ Passo a Passo
+# 1. Clone o repositório
+git clone https://github.com/Filipealves0/clima-facil-show
+
+# 2. Acesse a pasta do projeto
+cd clima-facil-show
+
+# 3. Instale as dependências
+npm install
+
+# 4. Execute o servidor de desenvolvimento
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🚀 Deploy
 
-**Use GitHub Codespaces**
+O deploy é feito gratuitamente usando Vercel.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📞 Sobre a Empresa
 
-## What technologies are used for this project?
+MaisClim – Climatização Profissional
+📍 João Pessoa - PB
+📱 (83) 98630-0683
+📧 ricardopereira774@gmail.com
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d4eff548-b347-4b88-ba21-3de515680c1c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+👤 Responsável Técnico: Ricardo
+"Soluções em climatização com segurança, qualidade e compromisso."
